@@ -10,10 +10,6 @@
 // 6. have to support differend buffer size of file 
 // 7. write console program that use class Encryption
 // 8. console UI should be user frieldly
-// for the future possible releases:
-// TODO: develop better key algorithms
-// TODO: develop GUI
-// TODO: port code to Android
 /////////////////////////////////////////////////////////////////////////////////////////////
 
 This branch contain class Encryption that can enrypt\decrypt any file with encryption key.
